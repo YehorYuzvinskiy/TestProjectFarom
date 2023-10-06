@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestProjectFarom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\TestProjectFaromEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\TestProjectFarom.cpp.obj"
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\TestProjectFaromGameModeBase.cpp.obj"
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\TestProjectFarom.init.gen.cpp.obj"
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\TestProjectFaromGameModeBase.gen.cpp.obj"
+"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\Default.rc2.res"
+/OUT:"A:\TestFarom\TestProjectFarom\Intermediate\Build\Win64\UnrealEditor\Development\TestProjectFarom\UnrealEditor-TestProjectFarom.lib"

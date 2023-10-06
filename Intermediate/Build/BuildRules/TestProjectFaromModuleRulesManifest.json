@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"A:\\TestFarom\\TestProjectFarom\\Source\\TestProjectFarom\\TestProjectFarom.Build.cs",
+		"A:\\TestFarom\\TestProjectFarom\\Source\\TestProjectFarom.Target.cs",
+		"A:\\TestFarom\\TestProjectFarom\\Source\\TestProjectFaromEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
