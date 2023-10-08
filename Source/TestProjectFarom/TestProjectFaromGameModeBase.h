@@ -14,4 +14,7 @@ class TESTPROJECTFAROM_API ATestProjectFaromGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	ATestProjectFaromGameModeBase();
+
 };

@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\testfarom\\testprojectfarom\\source\\testprojectfarom\\pingpongball.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\testprojectfaromeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\development\\testprojectfarom\\definitions.testprojectfarom.h",
+            "a:\\testfarom\\testprojectfarom\\source\\testprojectfarom\\pingpongball.h",
+            "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\inc\\testprojectfarom\\pingpongball.generated.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

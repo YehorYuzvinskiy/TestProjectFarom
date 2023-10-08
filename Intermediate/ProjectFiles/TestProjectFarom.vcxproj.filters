@@ -11,6 +11,8 @@
     <None Include="..\..\Source\TestProjectFaromEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -26,6 +28,24 @@
     <Filter Include="Source\TestProjectFarom">
       <UniqueIdentifier>{340D1C5F-B6B4-36CB-8C46-AB734BD9535A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TestProjectFarom\PingPongBall.cpp">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProjectFarom\PingPongBall.h">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProjectFarom\PlayerPlatform.cpp">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProjectFarom\PlayerPlatform.h">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProjectFarom\PlayerPlatformController.cpp">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProjectFarom\PlayerPlatformController.h">
+      <Filter>Source\TestProjectFarom</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TestProjectFarom\TestProjectFarom.Build.cs">
       <Filter>Source\TestProjectFarom</Filter>
     </None>

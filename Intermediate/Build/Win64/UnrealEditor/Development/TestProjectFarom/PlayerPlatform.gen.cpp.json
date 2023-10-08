@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\inc\\testprojectfarom\\playerplatform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\testprojectfaromeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\development\\testprojectfarom\\definitions.testprojectfarom.h",
+            "a:\\testfarom\\testprojectfarom\\source\\testprojectfarom\\playerplatform.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "a:\\unreal engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h",
+            "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\inc\\testprojectfarom\\playerplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

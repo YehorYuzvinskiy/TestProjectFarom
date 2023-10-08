@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\inc\\testprojectfarom\\testprojectfarom.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\testprojectfaromeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "a:\\testfarom\\testprojectfarom\\intermediate\\build\\win64\\unrealeditor\\development\\testprojectfarom\\definitions.testprojectfarom.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
